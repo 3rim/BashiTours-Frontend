@@ -1,8 +1,24 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <div>
-        <div id="map"></div>
-        <button @click="test" class=" bg-red-100 rounded-sm">click</button>
+    <!-- Container for simplemaps worldmap -->
+    <div class="flex flex-col">
+        <div class="bg-[#092635] pt-6">
+            <div class="bg-[#092635] " id="map"></div>
+        </div>
+        
+            <div class=" bg-slate-50 flex justify-center">
+                <button
+                @click="test"
+                class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
+                  Button
+                </button>
+                <button
+                @click="test"
+                class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
+                  Button
+                </button>
+            </div>
+        
     </div>
 </template>
 
@@ -14,9 +30,9 @@ onMounted (() =>{
 })
 
 const test = () => {
-  console.log("das")
-  simplemaps_worldmap.mapdata.main_settings.state_color = 'red';
-  simplemaps_worldmap_mapdata.state_specific['DE'].color='blue';
+  console.log("change color ")
+  //simplemaps_worldmap.mapdata.main_settings.state_color = 'red';
+  simplemaps_worldmap.mapdata.state_specific['DE'].color='#9EC8B9';
   simplemaps_worldmap.refresh();
 }
 </script>

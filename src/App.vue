@@ -1,6 +1,5 @@
 <script setup>
 import {RouterView } from 'vue-router'
-import Worldmap from './components/Worldmap.vue';
 
 
 </script>
@@ -8,9 +7,10 @@ import Worldmap from './components/Worldmap.vue';
 <template>
   <header>
   </header>
-  <div class="">Hsdello</div>
-  <Worldmap/>
- 
-  <RouterView />
+
+  <div class=" flex flex-col min-h-screen bg-[#1B4242]">
+    <RouterView />
+  </div>
+  
 </template>
 
