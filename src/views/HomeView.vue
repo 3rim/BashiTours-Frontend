@@ -5,9 +5,12 @@ import Worldmap from '@/components/Worldmap.vue';
 </script>
 
 <template>
-  <main class="">
+  <main class="container">
     <Suspense>
       <Worldmap/>
+      <template #fallback>
+            Loading...
+      </template>
     </Suspense>
     <!-- TODO: DestinationsList , add suspense later -->
     <DestinationsList/>

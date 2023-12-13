@@ -1,23 +1,18 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
     <!-- Container for simplemaps worldmap -->
-    <div class="flex flex-col">
-        <div class="bg-[#092635] pt-6">
+    <div class="flex flex-col mt-4">
+        <div class="bg-[#092635] p-0.5 rounded-md shadow-2xl ">
             <div class="bg-[#092635] " id="map"></div>
         </div>
         
-            <div class=" bg-slate-50 flex justify-center">
-                <button
-                @click="test"
-                class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
-                  Button
-                </button>
-                <button
-                @click="test"
-                class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
-                  Button
-                </button>
-            </div>
+        <div class="flex justify-center">
+            <button
+            @click="test"
+            class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ">
+              Button
+            </button>
+        </div>
         
     </div>
 </template>
