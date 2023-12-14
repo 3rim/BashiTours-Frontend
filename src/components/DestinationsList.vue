@@ -38,10 +38,18 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, } from 'vue';
 import DestinationModal from './DestinationModal.vue'
 
 const isOpen = ref(false)
+
+const loadVisitedCountries = async () =>{
+    //Late API-Call
+    await new Promise(resolve => setTimeout(resolve,300))
+}
+
+const mockLoading = await loadVisitedCountries();
+
 
 function openModal() {
   isOpen.value = true
