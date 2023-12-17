@@ -30,7 +30,7 @@ const country = ref("");
 const loadVisitedCountries = async () =>{
     //Late API-Call
     
-    await new Promise(resolve => setTimeout(resolve,3000))
+    await new Promise(resolve => setTimeout(resolve,300))
     //Test Mock-loading
     visitedCountriesDummy.forEach(element => {
         console.log(element)
