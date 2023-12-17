@@ -13,7 +13,7 @@
               Button
             </button>
         </div>
-    <CountryModal :key="componentKey" :is-open="showCountryModal"/>
+    <CountryModal :key="componentKey" :is-open="showCountryModal" :country="country"/>
     </div>
 
 </template>
@@ -25,6 +25,7 @@ import CountryModal from './CountryModal.vue';
 const showCountryModal = ref(false)
 const componentKey = ref(0)
 const visitedCountriesDummy = ["DE","AL","US"]
+const country = ref("");
 
 const loadVisitedCountries = async () =>{
     //Late API-Call
@@ -56,6 +57,7 @@ const forceRenderer = () => {
 
 simplemaps_worldmap.hooks.click_state = function(id){
      var description = simplemaps_worldmap.mapdata.state_specific[id].description;
+     country.value = simplemaps_worldmap.mapdata.state_specific[id].name;
      if(description === "visited"){
         openModal();
      }
