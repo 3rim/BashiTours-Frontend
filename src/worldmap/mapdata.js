@@ -63,7 +63,7 @@ var simplemaps_worldmap_mapdata={
     
 		//Advanced settings
 		div: "map",
-    auto_load: "yes",
+    auto_load: "no",
     rotate: "0",
     url_new_tab: "yes",
     images_directory: "default",
@@ -74,1498 +74,1499 @@ var simplemaps_worldmap_mapdata={
   state_specific: {
     AF: {
       name: "Afghanistan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AO: {
       name: "Angola",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AL: {
       name: "Albania",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AE: {
       name: "United Arab Emirates",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AR: {
       name: "Argentina",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AM: {
       name: "Armenia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AU: {
       name: "Australia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AT: {
       name: "Austria",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AZ: {
       name: "Azerbaijan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BI: {
       name: "Burundi",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BE: {
       name: "Belgium",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BJ: {
       name: "Benin",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BF: {
       name: "Burkina Faso",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BD: {
       name: "Bangladesh",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BG: {
       name: "Bulgaria",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BH: {
       name: "Bahrain",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BA: {
       name: "Bosnia and Herzegovina",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BY: {
       name: "Belarus",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BZ: {
       name: "Belize",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BO: {
       name: "Bolivia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BR: {
       name: "Brazil",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BN: {
       name: "Brunei Darussalam",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BT: {
       name: "Bhutan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BW: {
       name: "Botswana",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CF: {
       name: "Central African Republic",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CA: {
       name: "Canada",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CH: {
       name: "Switzerland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CL: {
       name: "Chile",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CN: {
       name: "China",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CI: {
       name: "Côte d'Ivoire",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CM: {
       name: "Cameroon",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CD: {
       name: "Democratic Republic of the Congo",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CG: {
       name: "Republic of Congo",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CO: {
       name: "Colombia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CR: {
       name: "Costa Rica",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CU: {
       name: "Cuba",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CZ: {
       name: "Czech Republic",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     DE: {
       name: "Germany",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
-      url: "default"
+      url: "default",
+      visited:false
     },
     DJ: {
       name: "Djibouti",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     DK: {
       name: "Denmark",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     DO: {
       name: "Dominican Republic",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     DZ: {
       name: "Algeria",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     EC: {
       name: "Ecuador",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     EG: {
       name: "Egypt",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ER: {
       name: "Eritrea",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     EE: {
       name: "Estonia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ET: {
       name: "Ethiopia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     FI: {
       name: "Finland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     FJ: {
       name: "Fiji",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GA: {
       name: "Gabon",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GB: {
       name: "United Kingdom",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GE: {
       name: "Georgia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GH: {
       name: "Ghana",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GN: {
       name: "Guinea",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GM: {
       name: "The Gambia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GW: {
       name: "Guinea-Bissau",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GQ: {
       name: "Equatorial Guinea",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GR: {
       name: "Greece",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GL: {
       name: "Greenland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GT: {
       name: "Guatemala",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GY: {
       name: "Guyana",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     HN: {
       name: "Honduras",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     HR: {
       name: "Croatia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     HT: {
       name: "Haiti",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     HU: {
       name: "Hungary",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ID: {
       name: "Indonesia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IN: {
       name: "India",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IE: {
       name: "Ireland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IR: {
       name: "Iran",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IQ: {
       name: "Iraq",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IS: {
       name: "Iceland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IL: {
       name: "Israel",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IT: {
       name: "Italy",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     JM: {
       name: "Jamaica",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     JO: {
       name: "Jordan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     JP: {
       name: "Japan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KZ: {
       name: "Kazakhstan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KE: {
       name: "Kenya",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KG: {
       name: "Kyrgyzstan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KH: {
       name: "Cambodia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KR: {
       name: "Republic of Korea",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     XK: {
       name: "Kosovo",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KW: {
       name: "Kuwait",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LA: {
       name: "Lao PDR",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LB: {
       name: "Lebanon",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LR: {
       name: "Liberia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LY: {
       name: "Libya",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LK: {
       name: "Sri Lanka",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LS: {
       name: "Lesotho",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LT: {
       name: "Lithuania",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LU: {
       name: "Luxembourg",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LV: {
       name: "Latvia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MA: {
       name: "Morocco",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MD: {
       name: "Moldova",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MG: {
       name: "Madagascar",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MX: {
       name: "Mexico",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MK: {
       name: "Macedonia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ML: {
       name: "Mali",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MM: {
       name: "Myanmar",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ME: {
       name: "Montenegro",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MN: {
       name: "Mongolia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MZ: {
       name: "Mozambique",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MR: {
       name: "Mauritania",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MW: {
       name: "Malawi",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MY: {
       name: "Malaysia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NA: {
       name: "Namibia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NE: {
       name: "Niger",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NG: {
       name: "Nigeria",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NI: {
       name: "Nicaragua",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NL: {
       name: "Netherlands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NO: {
       name: "Norway",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NP: {
       name: "Nepal",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NZ: {
       name: "New Zealand",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     OM: {
       name: "Oman",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PK: {
       name: "Pakistan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PA: {
       name: "Panama",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PE: {
       name: "Peru",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PH: {
       name: "Philippines",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PG: {
       name: "Papua New Guinea",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PL: {
       name: "Poland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KP: {
       name: "Dem. Rep. Korea",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PT: {
       name: "Portugal",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PY: {
       name: "Paraguay",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PS: {
       name: "Palestine",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     QA: {
       name: "Qatar",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     RO: {
       name: "Romania",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     RU: {
       name: "Russia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     RW: {
       name: "Rwanda",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     EH: {
       name: "Western Sahara",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SA: {
       name: "Saudi Arabia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SD: {
       name: "Sudan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SS: {
       name: "South Sudan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SN: {
       name: "Senegal",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SL: {
       name: "Sierra Leone",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SV: {
       name: "El Salvador",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     RS: {
       name: "Serbia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SR: {
       name: "Suriname",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SK: {
       name: "Slovakia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SI: {
       name: "Slovenia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SE: {
       name: "Sweden",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SZ: {
       name: "Swaziland",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SY: {
       name: "Syria",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TD: {
       name: "Chad",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TG: {
       name: "Togo",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TH: {
       name: "Thailand",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TJ: {
       name: "Tajikistan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TM: {
       name: "Turkmenistan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TL: {
       name: "Timor-Leste",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TN: {
       name: "Tunisia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TR: {
       name: "Turkey",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TW: {
       name: "Taiwan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TZ: {
       name: "Tanzania",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     UG: {
       name: "Uganda",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     UA: {
       name: "Ukraine",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     UY: {
       name: "Uruguay",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     US: {
       name: "United States",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     UZ: {
       name: "Uzbekistan",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VE: {
       name: "Venezuela",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VN: {
       name: "Vietnam",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VU: {
       name: "Vanuatu",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     YE: {
       name: "Yemen",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ZA: {
       name: "South Africa",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ZM: {
       name: "Zambia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ZW: {
       name: "Zimbabwe",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SO: {
       name: "Somalia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GF: {
       name: "France",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     FR: {
       name: "France",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ES: {
       name: "Spain",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AW: {
       name: "Aruba",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AI: {
       name: "Anguilla",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AD: {
       name: "Andorra",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     AG: {
       name: "Antigua and Barbuda",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BS: {
       name: "Bahamas",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BM: {
       name: "Bermuda",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     BB: {
       name: "Barbados",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KM: {
       name: "Comoros",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CV: {
       name: "Cape Verde",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KY: {
       name: "Cayman Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     DM: {
       name: "Dominica",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     FK: {
       name: "Falkland Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     FO: {
       name: "Faeroe Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GD: {
       name: "Grenada",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     HK: {
       name: "Hong Kong",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     KN: {
       name: "Saint Kitts and Nevis",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LC: {
       name: "Saint Lucia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     LI: {
       name: "Liechtenstein",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MF: {
       name: "Saint Martin (French)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MV: {
       name: "Maldives",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MT: {
       name: "Malta",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MS: {
       name: "Montserrat",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MU: {
       name: "Mauritius",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NC: {
       name: "New Caledonia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     NR: {
       name: "Nauru",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PN: {
       name: "Pitcairn Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PR: {
       name: "Puerto Rico",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     PF: {
       name: "French Polynesia",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SG: {
       name: "Singapore",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SB: {
       name: "Solomon Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     ST: {
       name: "São Tomé and Principe",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SX: {
       name: "Saint Martin (Dutch)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     SC: {
       name: "Seychelles",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TC: {
       name: "Turks and Caicos Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TO: {
       name: "Tonga",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     TT: {
       name: "Trinidad and Tobago",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VC: {
       name: "Saint Vincent and the Grenadines",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VG: {
       name: "British Virgin Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VI: {
       name: "United States Virgin Islands",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CY: {
       name: "Cyprus",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     RE: {
       name: "Reunion (France)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     YT: {
       name: "Mayotte (France)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     MQ: {
       name: "Martinique (France)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     GP: {
       name: "Guadeloupe (France)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     CW: {
       name: "Curaco (Netherlands)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     IC: {
       name: "Canary Islands (Spain)",
-      description: "default",
+      description: "Not visited",
       color: "default",
       hover_color: "default",
       url: "default"

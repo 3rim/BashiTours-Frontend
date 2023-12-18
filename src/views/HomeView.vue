@@ -1,7 +1,7 @@
 <script setup>
 import DestinationsList from '@/components/DestinationsList.vue';
 import Worldmap from '@/components/Worldmap.vue';
-
+import LoadingSpinner from '@/components/LoadingSpinner.vue';
 </script>
 
 <template>
@@ -9,11 +9,15 @@ import Worldmap from '@/components/Worldmap.vue';
     <Suspense>
       <Worldmap/>
       <template #fallback>
-            Loading...
+        <LoadingSpinner :text="'Worldmap Data'"/>
       </template>
     </Suspense>
-    <!-- TODO: DestinationsList , add suspense later -->
-    <DestinationsList/>
+    <Suspense>
+      <DestinationsList/>
+      <template #fallback>
+        <LoadingSpinner :text="'Destinations'"/>
+      </template>
+    </Suspense>
     
   </main>
 </template>
